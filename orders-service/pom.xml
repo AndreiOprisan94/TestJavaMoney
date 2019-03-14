@@ -35,7 +35,7 @@
             <groupId>org.javamoney</groupId>
             <artifactId>moneta</artifactId>
             <version>${moneta.version}</version>
-            <scope>pom</scope>
+            <type>pom</type>
         </dependency>
     </dependencies>
 
